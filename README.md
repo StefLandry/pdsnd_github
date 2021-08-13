@@ -4,7 +4,7 @@
 File created 8/12/2021 and README updated 8/13/2021
 
 ### Project Title
-Bike Sharing
+Explore Bike Share Data
 
 ### Description
 This project reveals interesting data points around Trip Counts and Durations with bike sharing which occur on three major US Cities: Chicago, New York City, and Washington.
